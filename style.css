@@ -364,3 +364,10 @@ footer {
   .github-link:hover {
     color: var(--primary);
   }
+  .skill_listing{
+    cursor:pointer;
+    
+  }
+  .skill_listing:hover{
+    transform: scale(1.4);
+  }
