@@ -347,3 +347,20 @@ footer {
         margin-left: 1rem;
     }
 }
+
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .github-link {
+    color: var(--light);
+    font-size: 1.2rem;
+    transition: color 0.3s;
+  }
+  
+  .github-link:hover {
+    color: var(--primary);
+  }
