@@ -366,8 +366,8 @@ footer {
   }
   .skill_listing{
     cursor:pointer;
-    
+    transition: 0.5s ease;
   }
   .skill_listing:hover{
-    transform: scale(1.4);
+    transform: scale(1.3);
   }
